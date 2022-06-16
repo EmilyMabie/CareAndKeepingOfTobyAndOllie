@@ -6,3 +6,6 @@ An informational resource about caring for Toby and Ollie, the two puppies of th
 
 ## Video 2: Feeding the Puppies
 [![This is a video of steps for feeding our dogs once a day.](https://img.youtube.com/vi/nA_9rtRQFRQ/0.jpg)](https://youtu.be/nA_9rtRQFRQ)
+
+## Video 3: Going for Walks
+Coming soon!
