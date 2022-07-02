@@ -12,3 +12,6 @@ Coming soon!
 
 ## Video 4: Bedtime!
 Coming soon!
+
+## Video 5: Puppy Bonus Features!
+Coming soon!
